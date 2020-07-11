@@ -1,0 +1,25 @@
+body{
+    background:linear-gradient(#da5089, #6f79f0);
+    
+}
+.counter{
+    font-size:50px;
+    spacing:100px;
+    text-align: center;
+}
+#code{
+    font-size:30px;
+    text-align:center;
+}
+.icon{
+    padding:50px;
+    border:1px solid rgb(107, 14, 14);
+    height:80px;
+    width:80px;
+    margin:10px auto;
+    transform:rotate(45deg);
+}
+img{
+    
+    transform:rotate(-45deg);
+}
